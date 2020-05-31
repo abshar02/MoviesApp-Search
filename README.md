@@ -1,4 +1,4 @@
-# Movies
+# MoviesApp-Search
 
 This is Android Movies App to search movies from [OMDb Api](http://www.omdbapi.com/), that allows the user to search for any movie title, view the list of search results and details of the selected movie.
 
